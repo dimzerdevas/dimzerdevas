@@ -1,5 +1,4 @@
-
-<a href="https://app.daily.dev/dimitriszerdevas"><img src="https://api.daily.dev/devcards/v2/vN1HdXC71K1EeMEqcwTU3.png?type=default&r=iyt" width="356" alt="Dimitris Zerdevas's Dev Card"/></a>
+<a href="https://app.daily.dev/dimitriszerdevas"><img src="https://api.daily.dev/devcards/v2/vN1HdXC71K1EeMEqcwTU3.png?type=wide&r=993" width="652" alt="Dimitris Zerdevas's Dev Card"/></a>
 
 <!--
 **dimzerdevas/dimzerdevas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
