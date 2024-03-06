@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/dimzerdev](https://app.daily.dev/dimitriszerdevas"><img src="./devcard.png" width="356" alt="Dimitris's Dev Card"/></a>
+<a href="https://app.daily.dev/dimitriszerdevas"><img src="./devcard.png" width="356" alt="Dimitris's Dev Card"/></a>
 
 <!--
 **dimzerdevas/dimzerdevas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
